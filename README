@@ -1,0 +1,7 @@
+Greetings!
+This repo contains a sentiment analysis model deployed on web. 
+The Sentiment folder contains the saved model data. You may create this data using the command: model.save('file name') in your editor and create a fresh file.
+The test.py file is just for illustrating, how to access the saved model and doesn't contribute in any way to our final product.
+The backnd file contains our flask code which must run.
+The template folder contains the html file.
+Hope you like this project!
